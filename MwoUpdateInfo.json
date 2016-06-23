@@ -3,6 +3,7 @@
   "1.8.9": 
   {
     "FileName": "MoreWorldOptions-1.2.0-BETA-1.8.9",
-    "Build": 9
+    "Build": 9,
+    "Adds": "Json update system"
   }
 }
