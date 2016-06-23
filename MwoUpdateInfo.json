@@ -1,2 +1,9 @@
-MoreWorldOptions-1.2.0-BETA-1.8.9 9 1.8.9
-Adds the auto update
+{
+    "Latest": "1.8.9",
+    "1.8.9": 
+    {
+        "FileName": "MoreWorldOptions-1.2.0-BETA-1.8.9",
+        "Build": 9,
+        "Adds": "Json update system"
+    }
+}
