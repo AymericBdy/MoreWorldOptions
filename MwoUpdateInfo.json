@@ -7,5 +7,12 @@
         "Build": 10,
         "Adds": "Added the update system",
         "OtherVersions": ["MoreWorldOptions-1.2.0-BETA-1.8.9"]
+    },
+    "1.10.2": 
+    {
+        "FileName": "MoreWorldOptions-1.2.0-BETA-1.10.2",
+        "Build": 10,
+        "Adds": "Added the update system",
+        "OtherVersions": ["MoreWorldOptions-1.2.0-BETA-1.8.9"]
     }
 }
