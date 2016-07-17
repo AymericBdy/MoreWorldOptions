@@ -6,6 +6,7 @@
         "FileName": "MoreWorldOptions-1.1.0-BETA-1.8.9",
         "Build": 10,
         "Adds": "Added the update system",
+        "VeryShortDescription": "More options for world customization",
         "OtherVersions": ["MoreWorldOptions-1.2.0-BETA-1.8.9"]
     }
 }
