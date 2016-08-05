@@ -14,7 +14,9 @@ It will permit to:
 - Change the screenshot of the world (in 1.9+).
 - Change default gamemode of a world, generation settings, etc...
 
+This mod is side client only, Minecraft will crash if you try to run this on a dedicated server.
 The mod will automatically display a warning if it isn't up-to-date.
+You can always remove or re-use this mod, it will keep the world's data saved forever.
 
 Modders:
 - You can simply use this mod by adding this in your mods folders, without anything, it will permit to you to organise your work !
