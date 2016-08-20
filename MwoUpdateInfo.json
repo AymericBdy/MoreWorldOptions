@@ -3,9 +3,9 @@
     "UrlFormat": "https://github.com/Mysticaly/MoreWorldOptions/raw/Mwo-Mc-$mc_version/$file_name.jar",
     "1.8.9": 
     {
-        "FileName": "MoreWorldOptions-1.2.0-BETA-1.8.9",
-        "Build": 14,
-        "Adds": "Lot of interface changes and bug fixes",
+        "FileName": "MoreWorldOptions-1.2.1-BETA-1.8.9",
+        "Build": 15,
+        "Adds": "Bug fixes with zipped worlds and loading gif",
         "VeryShortDescription": "More options for world customization",
         "OtherVersions": []
     }
