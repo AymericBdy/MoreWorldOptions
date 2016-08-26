@@ -2,8 +2,8 @@
 A mod for Minecraft wich adds options to customize and manage worlds
 
 It permits to:
-- Copy and zip worlds.
-- Rename world's folder.
+- Copy, zip and unzip worlds.
+- Rename world's name and folder.
 - Add resources packs to automatically load with the world.
 - Add a short description to a world to remember what you did in its world.
 - Easy enable/disable commands (and maybe more features in a future release).
@@ -17,6 +17,8 @@ It will permit to:
 This mod is side client only, Minecraft will crash if you try to run this on a dedicated server.
 The mod will automatically display a warning if it isn't up-to-date.
 You can always remove or re-use this mod, it will keep the world's data saved forever.
+
+It is currently avaible in 1.7.10, 1.8.9, 1.9.4, 1.10.2, but the too old versions will be updated later when I made changes in the mod.
 
 Modders:
 - You can simply use this mod by adding this in your mods folders, without anything, it will permit to you to organise your work !
