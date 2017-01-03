@@ -1,0 +1,15 @@
+{
+    "Latest": "1.0.0-1.11",
+    "UrlFormat": "https://github.com/Mysticaly/MoreWorldOptions/raw/Mwo-Mc-$mc_version/$file_name.jar",
+    "1.0.0-1.11": 
+    {
+        "FileName": "MoreWorldOptions-1.4.0-BETA-1.7.10",
+        "McVersion": "1.11",
+        "Build": 19,
+        "VeryShortDescription": "A test for a mod pack,
+        "OtherVersions": [],
+        "Url": "http://adf.ly/14475621/moreworldoptions",
+        "Tasks": ["decomp"], 
+        "Type": "ModPack"
+    }
+}
