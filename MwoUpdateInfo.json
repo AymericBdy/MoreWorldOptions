@@ -3,11 +3,11 @@
     "UrlFormat": "https://github.com/Mysticaly/MoreWorldOptions/raw/Mwo-Mc-$mc_version/$file_name.jar",
     "1.7.10": 
     {
-        "FileName": "MoreWorldOptions-1.4.0-BETA-1.7.10",
+        "FileName": "MoreWorldOptions-1.4.1-BETA-1.7.10",
         "Build": 19,
-        "Adds": "Bug fixes and added option to filter worlds",
+        "Adds": "Added world icons to 1.7.10 !",
         "VeryShortDescription": "More options for world customization",
-        "OtherVersions": [],
+        "OtherVersions": ["MoreWorldOptions-1.4.0-BETA-1.4.0"],
         "Url": "http://adf.ly/14475621/moreworldoptions"
     },
     "1.8.9": 
@@ -30,9 +30,18 @@
     },
     "1.10.2": 
     {
-        "FileName": "MoreWorldOptions-1.4.0-BETA-1.10.2",
+        "FileName": "MoreWorldOptions-1.4.1-Mc1.10+",
         "Build": 19,
-        "Adds": "Bug fixes and added option to filter worlds",
+        "Adds": "New functions with world icons",
+        "VeryShortDescription": "More options for world customization",
+        "OtherVersions": ["MoreWorldOptions-1.3.0-BETA-1.10.2", "MoreWorldOptions-1.4.0-BETA-1.10.2"],
+        "Url": "http://adf.ly/14475621/moreworldoptions-1102"
+    },
+    "1.11.2": 
+    {
+        "FileName": "MoreWorldOptions-1.4.1-Mc1.10+",
+        "Build": 19,
+        "Adds": "Updated for 1.11.2 !",
         "VeryShortDescription": "More options for world customization",
         "OtherVersions": ["MoreWorldOptions-1.3.0-BETA-1.10.2"],
         "Url": "http://adf.ly/14475621/moreworldoptions-1102"
